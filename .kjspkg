@@ -1,8 +1,8 @@
 {
-    "author": "G_cat",
-    "description": "Sends a big mogus to every person that logs in",
+    "author": "Prunoideae",
+    "description": "A port of the Spice of Life mod for 1.19, using only KubeJS. (Requires JEI and AppleSkin!)",
     
-    "versions": [6, 8],
+    "versions": [9],
     "modloaders": ["forge", "fabric"],
     "dependencies": [],
     "incompatibilities": []
