@@ -1,9 +1,9 @@
 {
     "author": "Prunoideae",
-    "description": "A port of the Spice of Life mod for 1.19, using only KubeJS. (Requires JEI and AppleSkin!)",
+    "description": "A port of the Spice of Life mod for 1.19, using only KubeJS.",
     
     "versions": [9],
     "modloaders": ["forge", "fabric"],
-    "dependencies": [],
+    "dependencies": ["mod:jei", "mod:appleskin"],
     "incompatibilities": []
 }
